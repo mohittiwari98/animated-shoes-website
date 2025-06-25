@@ -3,6 +3,13 @@
 ## Overview
 This is a dynamic and interactive website for shopping shoes, built using HTML, CSS, and JavaScript. The website features animated shoes with color-changing options, categorized sections for men, women, and sports, and an online transaction feature. It is designed to provide an engaging user experience with smooth animations and responsive design.
 
+### Tools and Modules 
+![](https://img.shields.io/badge/Programming_Language-HTML-orange.svg)
+![](https://img.shields.io/badge/Programming_Language-CSS-blue.svg)
+![](https://img.shields.io/badge/Programming_Language-JS-yellow.svg)
+![](https://img.shields.io/badge/Application-visualization-lemon.svg)
+![](https://img.shields.io/badge/Status-Complete-green.svg)
+
 ## Features
 - Animated Shoes: Interactive shoe models with color customization based on user selection.
 - Category Sections: Dedicated sections for men’s, women’s, and sports shoes.

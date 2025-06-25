@@ -12,11 +12,27 @@ This is a dynamic and interactive website for shopping shoes, built using HTML, 
 
 ## Features
 - Animated Shoes: Interactive shoe models with color customization based on user selection.
-- Category Sections: Dedicated sections for men’s, women’s, and sports shoes.
-- Online Transactions: Basic online payment simulation or integration option.
-- Responsive Design: Adapts to various devices including desktops, tablets, and mobiles.
-- User-Friendly Interface: Smooth animations and intuitive navigation.
+  <div align="center">
+  <img src="98.PNG" alt="DevOpsShack Banner">
+</div>
 
+- Category Sections: Dedicated sections for men’s, women’s, and sports shoes.
+ <div align="center">
+  <img src="100.PNG" alt="DevOpsShack Banner">
+</div>
+- Online Transactions: Basic online payment simulation or integration option.
+
+<div align="center">
+  <img src="99.PNG" alt="DevOpsShack Banner">
+</div>
+- Responsive Design: Adapts to various devices including desktops, tablets, and mobiles.
+<div align="center">
+  <img src="101.PNG" alt="DevOpsShack Banner">
+</div>
+- User-Friendly Interface: Smooth animations and intuitive navigation.
+<div align="center">
+  <img src="102.PNG" alt="DevOpsShack Banner">
+</div>
 
 
 ## Folder Structure

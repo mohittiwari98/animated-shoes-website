@@ -80,7 +80,7 @@ const products = [
     ],
   },
 ];
-//choose
+//choose pro
 let choosenProduct = products[0];
 
 const currentProductImg = document.querySelector(".productImg");

@@ -2,7 +2,7 @@
 const wrapper = document.querySelector(".sliderWrapper");
 const menuItems = document.querySelectorAll(".menuItem");
 
-//for each produc
+//for each products
 const products = [
   {
     id: 1,
